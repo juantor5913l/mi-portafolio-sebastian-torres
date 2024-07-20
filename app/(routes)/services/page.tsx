@@ -14,8 +14,8 @@ const ServicesPage = () => {
                 <div className="max-w-[450px]">
 
                     <h1 className="text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-5">Mis <span className="font-bold text-secondary"> servicios.</span></h1>
-                    <p className="mb-3 text-xl text-gray-300">Ofrezco servicios de desarrollo web frontend especializados en la creación de sitios web y aplicaciones atractivas y funcionales. Utilizando las últimas tecnologías, como HTML, CSS y JavaScript, diseño interfaces de usuario intuitivas y responsivas que reflejan la identidad de marca de mis clientes y mejoran su presencia en línea.</p>
-                    <button className="px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65">Contacta conmigo</button>
+                    <p className="mb-3 text-xl text-gray-300">Creación de sitios web estáticos y dinámicos, integraciones, diseño responsivo y mantenimiento. También desarrollo aplicaciones web a medida, optimizo el rendimiento web, implemento medidas de seguridad . Además, ofrezco consultoría, capacitación y soporte técnico. ¡Contáctame para impulsar tus proyectos web!.</p>
+                    <a href="https://www.linkedin.com/in/juan-sebastián-torres-jerez-6766a0307/" className="px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65">Contacta conmigo</a>
                 </div>
 
                 {/* SLIDER */}

@@ -27,14 +27,14 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                        Como desarrollador frontend y creador de contenido, me dedico a combinar diseño y funcionalidad para crear experiencias digitales impactantes y accesibles.
+                    Soy un desarrollador web full stack con  experiencia en el diseño, desarrollo y mantenimiento de sitios web y aplicaciones web dinámicas y escalables. Poseo conocimiento tanto del front-end como del back-end, lo que me permite crear soluciones web completas y de alto rendimiento que satisfacen las necesidades de mis clientes.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
-                        <a href="/projects" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
+                        <a href="/portfolio" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                             Ver proyectos
                         </a>
-                        <a href="/contact"
+                        <a href="https://www.linkedin.com/in/juan-sebastián-torres-jerez-6766a0307/"
                             className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary" >
                             Contacta conmigo
                         </a>
